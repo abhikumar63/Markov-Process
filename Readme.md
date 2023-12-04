@@ -1,0 +1,2 @@
+# Markov Strategy
+This strategy is bason the principle that what will happen tomorrow is only based on today. And to calculate the probabilities of the next day outcomes we caluculate the probability of each condition from the past data and then predict that tomorrow's chart will go in which direction.
